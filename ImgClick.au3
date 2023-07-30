@@ -47,6 +47,7 @@ Func ClickonImage($imgfile, $click_action)
     Local $result = findImage($imgfile)  
     If $result == false Then
         MsgBox(0, 'Error', "Image was not found on screen.")
+		Exit
     Else
 		If $click_action=="" then
 			MouseMove($result[0], $result[1], 10)
