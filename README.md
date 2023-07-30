@@ -10,16 +10,21 @@ Example , to click on Excel icon
 
 
 Source code written in AutoIT script:
-ImgClick.au3
+   ImgClick.au3
 
 Library file
-ImageSearch2015.au3
+   ImageSearch2015.au3
 
-Runtimes
-ImageSearchDLLx32.dll
-ImageSearchDLLx64.dll
-msvcr110.dll
-msvcr110d.dll
+Runtime files:
+   ImgClick.exe
+   ImageSearchDLLx32.dll
+   ImageSearchDLLx64.dll
+   msvcr110.dll
+   msvcr110d.dll
 
 Full source code in zip
-ImgClick.zip
+   ImgClick.zip
+
+Reference source
+   https://macroforge.wordpress.com/2019/06/08/using-image-search-in-autoit/
+   
