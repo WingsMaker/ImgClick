@@ -9,6 +9,9 @@ Example , to click on Excel icon
 
 
 
+
+
+
 Source code written in AutoIT script:
    ImgClick.au3
 
