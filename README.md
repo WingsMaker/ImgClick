@@ -7,11 +7,9 @@ Click on the centre of screen location with image matching to a given png file, 
 
 
 
-.
 
-.
 
-Example , to click on Excel icon 
+Example (above) , to click on Excel icon 
 
 Source code written in AutoIT script:
    ImgClick.au3
