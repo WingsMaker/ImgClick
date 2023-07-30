@@ -5,6 +5,10 @@ Click on the centre of screen location with image matching to a given png file, 
 Example , to click on Excel icon 
 ![imgclick](https://github.com/WingsMaker/ImgClick/assets/32192638/45a11b56-e7a8-4ee8-a53a-34db0f5557ad)
 
+
+
+
+
 Source code written in AutoIT script:
 ImgClick.au3
 
