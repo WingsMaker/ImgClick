@@ -45,10 +45,10 @@ EndFunc
 Func ClickonImage($imgfile, $click_action)
 	waitForImage($imgfile) ;wait until image is found
     Local $result = findImage($imgfile)  
-    If $result = false Then
+    If $result == false Then
         MsgBox(0, 'Error', "Image was not found on screen.")
     Else
-		If $click_action="" then
+		If $click_action=="" then
 			MouseMove($result[0], $result[1], 10)
 		Else
 			MouseClick($click_action,$result[0], $result[1])
