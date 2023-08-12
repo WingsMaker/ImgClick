@@ -13,31 +13,27 @@ Example (above) , to click on Excel icon
 
 Source code written in AutoIT script:
 
-   ImgClick.au3  ( Windows app )
+-   ImgClick.au3  ( Windows app )
    
-   Img_Click.au3 ( DOS console app )
+-   Img_Click.au3 ( DOS console app )
 
 Library file
-   ImageSearch2015.au3
+-   ImageSearch2015.au3
 
 Runtime files:
 
-   ImgClick.exe  ( Windows app )
+-   ImgClick.exe  ( Windows app )
    
-   Img_Click.exe ( DOS console app )
+-   Img_Click.exe ( DOS console app )
    
-   ImageSearchDLLx32.dll
+-   ImageSearchDLLx32.dll,ImageSearchDLLx64.dll
    
-   ImageSearchDLLx64.dll
-   
-   msvcr110.dll
-   
-   msvcr110d.dll
+-   msvcr110.dll,msvcr110d.dll
 
 
 Full source code in zip
 
-   ImgClick.zip
+-   ImgClick.zip
 
 Reference source
 
